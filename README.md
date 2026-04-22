@@ -1,2 +1,3 @@
 # BDD-em-Sql
-Banco de dados em construção para aps da faculdade em criação de um rpg em texto
+Primeiro projeto em java na criação de um bdd em sql para um rpg em texto para aps da facu. (codigo ainda em construção)
+
